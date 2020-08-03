@@ -1,0 +1,9 @@
+#cards {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	background-color: #e68a00;
+	padding: 20px;
+	box-shadow: 5px 5px rgba(255,255,255,0.8);
+}

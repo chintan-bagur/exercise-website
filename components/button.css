@@ -1,0 +1,11 @@
+.button-cream {
+	padding: 10px 20px;
+	background-color: #EAD2AC;
+	text-align: center;
+	border-radius: 6px;
+}
+
+.button-cream:hover{
+	background-color: rgba(88,99,34,0.9);
+	color: white;
+}
